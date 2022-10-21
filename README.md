@@ -61,7 +61,8 @@ Los repositorios correspondientes a estos proyectos son los siguientes:
 ## Interacción entre los componentes
 
 El siguiente diagrama describe las interacciones que se dan entre los componentes de la solución
-![alt text](./flow2.svg)
+
+![flow2](https://user-images.githubusercontent.com/32737769/197226647-9b3a5209-e6e8-4b71-b412-ef2c3bb82ea3.svg)
 
 
 ## Comprobación de hash
