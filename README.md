@@ -1,3 +1,7 @@
+## Links 
+* Frontend (https://github.com/ACDI-Argentina/trazabilidad-coopsol-frontend)
+* Backend (https://github.com/ACDI-Argentina/trazabilidad-coopsol-backend)
+
 ## Deploy en testing
 
 Se desplegó la solución en un ambiente de pruebas de la siguiente manera.
