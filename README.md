@@ -77,7 +77,10 @@ Las urls en las que funcionan los servicios son las siguientes
 
 Front: https://t.coopsol.com.ar/  
 Back: https://trazabilidad-coopsol-backend.up.railway.app/  
-Smart contract: [0x524cAF10305c17a2c4777E83e49656906DCA87F2](https://explorer.lacchain.net/address/0x524cAF10305c17a2c4777E83e49656906DCA87F2)
+Smart contract: [0x1645dB47Be6604Fa76219BF0c9353B27173dEeAF](https://blockscout.lac-net.net/address/0x1645dB47Be6604Fa76219BF0c9353B27173dEeAF)
+
+
+
 
 
 
