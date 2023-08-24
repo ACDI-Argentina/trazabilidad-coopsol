@@ -71,7 +71,7 @@ El proceso de comprobación de hash que es ejecutado en el browser del usuario e
 ## Deploy
 
 Se desplegó la solución en un ambiente compuesto de la siguiente manera.
-Para el front se utilizó [Netlify](https://www.netlify.com/), para el backend [Railway](https://railway.app/), y el smart contract se desarrolló usando el framework Remix, y se desplegó en la red [LACChain](https://www.lacchain.net/)
+Para el front se utilizó [Netlify](https://www.netlify.com/), para el backend [Railway](https://railway.app/), y el smart contract se desarrolló usando el framework Remix, y se desplegó en la red [LACNet](https://lacnet.lacchain.net/)
 
 Las urls en las que funcionan los servicios son las siguientes
 
